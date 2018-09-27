@@ -1,4 +1,5 @@
 #Material
+
 There are six materials needed to prepare.
 
 * Raspberry pi 3 
@@ -19,7 +20,9 @@ There are six materials needed to prepare.
 ![Configuration](http://wordpress.bestdaylong.com/wp-content/uploads/2016/12/RPi-3的GPIO腳位_01.jpg)
 
 #System Architect
+
 ##Identify_image
+
 ###[Demo video](https://www.youtube.com/watch?v=iWKzJXttQiE)
 ![Configuration](https://epl.tw/wp-content/uploads/2018/09/螢幕快照-2018-09-13-下午12.23.39.png)
 
@@ -32,6 +35,7 @@ There are six materials needed to prepare.
 * detect_label.py
 
 ##Detect_environment
+
 ###[Demo video](https://www.youtube.com/watch?v=BRCUmnfonFg)
 ![Configuration](https://epl.tw/wp-content/uploads/2018/09/螢幕快照-2018-09-13-下午12.24.03-1.png)
 
@@ -43,6 +47,7 @@ There are six materials needed to prepare.
 	* Pushing the APP button could choose the song that children like to stop crying.
 	
 #App:
+
 ## Sign in
 
 <img src="https://epl.tw/wp-content/uploads/2018/09/螢幕快照-2018-08-31-下午3.11.14.png"  width="300">
